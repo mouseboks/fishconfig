@@ -1,0 +1,1 @@
+/home/jamesm/.config/fisherman/fasd/functions/sd.fish

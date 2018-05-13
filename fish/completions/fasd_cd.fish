@@ -1,0 +1,1 @@
+/home/jamesm/.config/fisherman/fasd/completions/fasd_cd.fish
